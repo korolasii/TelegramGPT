@@ -1,4 +1,4 @@
-package org.MonkeyType;
+package org.TelegramGPT;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
@@ -8,8 +8,6 @@ import java.net.HttpURLConnection;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
-import org.json.JSONArray;
-import org.json.JSONObject;
 
 public class ApiGPT {
 
